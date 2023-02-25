@@ -1,8 +1,4 @@
-Eric Anderson
-eander29@u.rochester.edu
-CSC 242
-Project 2
-Worked alone
+# Constraint Satisfaction Problem Solver
 
 Build instructions:
 
@@ -17,9 +13,6 @@ Run instructions:
 	- java CSP AustraliaMapColoring.txt 1
 	- java CSP AustraliaMapColoring.txt 2
 	- java CSP JobShopScheduling.txt
-
-Output format closely mimics the example output given to us.
-Turn in zip contains src files, CSP files, submission form, and the README.
 
 Runs for CSP map coloring and job scheduling problems of file input described
 in project description. NOTE: map coloring files cannot have numeric labels
@@ -48,7 +41,6 @@ Files:
 	- Domain.java - holds the set of possible values
 	- JobShopScheduling.txt
 	- README.txt
-	- submission_form.pdf
 	- UnaryConstraint.java - describes the relationship between a variable and a domain value
 	- Variable.java - holds information describing the variable
 
